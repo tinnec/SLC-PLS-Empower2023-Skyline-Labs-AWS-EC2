@@ -18,6 +18,8 @@ Before you start the workshop, make sure you have the following installed on you
 -   [Git](https://git-scm.com/)
 -   [Visual Studio](https://visualstudio.microsoft.com)
 -   [DataMiner Integration Studio](https://community.dataminer.services/dataminer-integration-studio-other-downloads/)
+-   [Empower - DOM Hands-On](https://catalog.dataminer.services/catalog/4243)
+-   [Empower - PA Prerequisites](https://catalog.dataminer.services/catalog/4125)
 -   [Empower - SRM Prerequisites](https://catalog.dataminer.services/catalog/4119)
 
 ## Getting Started
