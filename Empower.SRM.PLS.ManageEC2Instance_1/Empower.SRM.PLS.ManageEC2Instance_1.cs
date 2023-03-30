@@ -82,8 +82,6 @@ namespace Empower.SRM.PLS.ManageEC2Instance
 			{
 				helper.Log($"Executing profile-Load with Action {configurationInfo?.ProfileAction}", LogEntryType.Info);
 
-				// TODO: Implement logic here
-
 				helper.Log($"Successfully configured resource", LogEntryType.Info);
 			}
 			catch (Exception e)
